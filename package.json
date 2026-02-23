@@ -1,7 +1,7 @@
 {
     "name": "minions-costs-workspace",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Cost tracking, budgets, and financial ledgers for agent operations",
     "type": "module",
     "license": "MIT",

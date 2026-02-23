@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-costs"
-version = "0.1.0"
+version = "0.2.0"
 description = "Cost tracking, budgets, and financial ledgers for agent operations"
 readme = "README.md"
 license = { text = "MIT" }
