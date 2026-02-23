@@ -1,6 +1,12 @@
 ---
 name: minions-costs
-description: Cost tracking, budgets, and financial ledgers for agent operations
+id: OC-0121
+version: 1.0.0
+description: "Cost tracking, budgets, and financial ledgers for agent operations"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-costs — Agent Skills
