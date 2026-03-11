@@ -6,3 +6,4 @@ description: "CLI for minions-costs — Cost tracking, budgets, and financial le
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
