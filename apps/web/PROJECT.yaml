@@ -1,0 +1,8 @@
+name: minions-costs-web
+project_scope: child
+child_type: web-app
+parent_project: minions-costs-workspace
+description: Standard compliance definition for minions-costs-web
+priority: high
+deploy_url: null
+tags: null

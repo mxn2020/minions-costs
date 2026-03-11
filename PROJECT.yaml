@@ -1,0 +1,15 @@
+name: minions-costs-workspace
+project_scope: main
+project_type: monorepo
+description: "Cost tracking, budgets, and financial ledgers for agent operations"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-costs"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, costs]
+notes: null
+id: b4fecd1e-22d7-4e96-a7fa-6525e94f005f

@@ -1,0 +1,8 @@
+name: minions-costs-docs
+project_scope: child
+child_type: docs
+parent_project: minions-costs-workspace
+description: Standard compliance definition for minions-costs-docs
+priority: high
+deploy_url: null
+tags: null

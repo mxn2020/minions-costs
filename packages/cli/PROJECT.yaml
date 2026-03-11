@@ -1,0 +1,8 @@
+name: "@minions-costs/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-costs-workspace
+description: "CLI for minions-costs — Cost tracking, budgets, and financial ledgers for agent operations"
+priority: high
+deploy_url: null
+tags: null
